@@ -13,8 +13,8 @@
 		<description>[B][COLOR AQUA]Film & serie tv dai siti streaming piu popolari[/COLOR][/B]</description>
 		<disclaimer>[B][COLOR GOLD]Ogni contenuto e preso in prestito" da i vari siti di streaming italiani presenti sul web.[/COLOR][/B]</disclaimer>
 		<assets>
-			<icon>okc.png</icon>
-			<fanart>okc.jpg</fanart>
+			<icon>icon.png</icon>
+			<fanart>fanart.jpg</fanart>
 		</assets>
 		<platform>all</platform>
 		<news>[B][COLOR red]V1[/COLOR][/B]</news>
