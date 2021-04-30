@@ -1,5 +1,5 @@
 waste = {
-	"plot": "[B][COLOR lime]Proudly Served By Dark_Legion_Production[/COLOR][/B]",
+	"plot": "[B][COLOR lime]Proudly Served By Ophicus_Kodi_Center_Staff[/COLOR][/B]",
 	"mediatype": "movie"
 }
 
