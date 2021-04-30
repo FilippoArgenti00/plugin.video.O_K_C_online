@@ -3,13 +3,13 @@
 from requests import get
 from importlib import import_module
 
-where = "https://raw.githubusercontent.com/wearelegionerseka/plugin.video.darkmovie/master/sites.json"
+where = "https://raw.githubusercontent.com/ophicus90/plugin.video.O_K_C_online/master/sites.json"
 sites = get(where).json()
 sites_film = []
 sites_serietv = []
 
 films = [
-	"altadefinizione7", "altadefinizione1",
+	"altadefinizione7", "altadefinizione1", "altadefinizione5",
 	"altadefinizione3", "altadefinizione2", "altadefinizione6",
 	"piratestreaming", "cineblog01", "altadefinizione8"
 ]
